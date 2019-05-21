@@ -36,7 +36,7 @@
 
  
 
-![](.seq2seqtest.png)	
+![](https://github.com/wnsghek31/NLP/blob/master/Tranformer/image/seq2seqtest.png)	
 
  
 
@@ -123,7 +123,7 @@ seq2seq에서 사용되는 어텐션 중에서 닷 프로덕트 어텐션과 다
 
  
 
-![](./image/dotproductex.png)
+![](https://github.com/wnsghek31/NLP/blob/master/Tranformer/image/dotproductex.png)
 
  
 
@@ -159,7 +159,7 @@ Dot-product attention 에서는 이 스코어 값을 구하기 위해 s_t-1를 �
 
  
 
-![](./image/dotproductscore.png)
+![](https://github.com/wnsghek31/NLP/blob/master/Tranformer/image/dotproductscore.png)
 
  
 
@@ -183,7 +183,7 @@ Dot-product attention 에서는 이 스코어 값을 구하기 위해 s_t-1를 �
 
  
 
-![](./image/attentionvalue.png)
+![](https://github.com/wnsghek31/NLP/blob/master/Tranformer/image/attentionvalue.png)
 
  
 
@@ -285,7 +285,7 @@ RNN이나 CNN을 사용하지 않고 attention 만으로 만든 모델
 
  
 
-![](./image/tranmodelarchitecture)
+![](https://github.com/wnsghek31/NLP/blob/master/Tranformer/image/tranmodelarchitecture)
 
  
 
@@ -315,7 +315,7 @@ RNN이나 CNN을 사용하지 않고 attention 만으로 만든 모델
 
  
 
-![](./image/transencodeco.png)
+![](https://github.com/wnsghek31/NLP/blob/master/Tranformer/image/transencodeco.png)
 
  
 
@@ -357,7 +357,7 @@ RNN이나 CNN을 사용하지 않고 attention 만으로 만든 모델
 
  
 
-![](./image/decoderex.png)
+![](https://github.com/wnsghek31/NLP/blob/master/Tranformer/image/decoderex.png)
 
  
 
@@ -379,7 +379,7 @@ RNN이나 CNN을 사용하지 않고 attention 만으로 만든 모델
 
  
 
-![](./image/scaleddotproductattention.png)
+![](https://github.com/wnsghek31/NLP/blob/master/Tranformer/image/scaleddotproductattention.png)
 
  
 
@@ -415,11 +415,11 @@ RNN이나 CNN을 사용하지 않고 attention 만으로 만든 모델
 
  
 
-![](./image/multiheadattention.png)
+![](https://github.com/wnsghek31/NLP/blob/master/Tranformer/image/multiheadattention.png)
 
  
 
-![](./image/multiheadattentionhead.png)
+![](https://github.com/wnsghek31/NLP/blob/master/Tranformer/image/multiheadattentionhead.png)
 
  
 
@@ -435,7 +435,7 @@ RNN이나 CNN을 사용하지 않고 attention 만으로 만든 모델
 
  
 
-![](./image/multiheadattentionexpr.png)
+![](https://github.com/wnsghek31/NLP/blob/master/Tranformer/image/multiheadattentionexpr.png)
 
  
 
@@ -475,7 +475,7 @@ attention sub-layer에 이어서 fully connected feed-forward network를 거치�
 
 이 network는 두개의 linear transformation으로 구성되어 있고 , 두 transformation 사이에 ReLU 함수 사용
 
-![](./image/positionffn.png)
+![](https://github.com/wnsghek31/NLP/blob/master/Tranformer/image/positionffn.png)
 
  
 
@@ -531,7 +531,7 @@ position encoding에 여러 방법이 있찌만 sin, cos 함수로 사용해서 
 
  
 
-![](./image/positionencexpr.png)
+![](https://github.com/wnsghek31/NLP/blob/master/Tranformer/image/positionencexpr.png)
 
  
 
@@ -559,7 +559,7 @@ position encoding에 여러 방법이 있찌만 sin, cos 함수로 사용해서 
 
 attention의 메커니즘
 
-![](./image/attentionmechanism.png)
+![](https://github.com/wnsghek31/NLP/blob/master/Tranformer/image/attentionmechanism.png)
 
  
 
@@ -593,7 +593,7 @@ attention의 메커니즘
 
 * 학습률의 경우 학습 경과에 따라 변화하게 만들었따. 아래의 공식으로
 
-![](./image/lrexpr.png)
+![](https://github.com/wnsghek31/NLP/blob/master/Tranformer/image/lrexpr.png)
 
 	warmup_step의 값으로는 4000을 사용
 
