@@ -93,8 +93,7 @@
 `Attention(Q,K,V) = Attention value`
 
  
-
-![](./image/attentionfunc.png)
+![](https://github.com/wnsghek31/NLP/blob/master/Tranformer/image/attentionfunc.png)
 
  
 
