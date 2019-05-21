@@ -36,7 +36,7 @@
 
  
 
-![](./image/seq2seqtest.png)	
+![](.seq2seqtest.png)	
 
  
 
